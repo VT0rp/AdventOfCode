@@ -1,0 +1,13 @@
+{
+  "name": "day-3",
+  "version": "1.0.0",
+  "description": "Day 3 of adventOfCode",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Víctor",
+  "license": "ISC"
+}
